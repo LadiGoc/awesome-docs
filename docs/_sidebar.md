@@ -1,5 +1,5 @@
 Build Guides
-- [JellyBox 2 Elementary](/JB-2-Maker-Cold-Docs/)
+- [JellyBOX 3  Easy Kit](/JB-2-Maker-Cold-Docs/)
 - [Your First Print](/Your-First-Print/)
 
 Usage Guides
