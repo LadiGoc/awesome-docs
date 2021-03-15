@@ -3,6 +3,7 @@ Build Guides
 - [Your First Print](/Your-First-Print/)
 
 Usage Guides
+- [JellyBOX Octopi User Manual (Pre-configured)] (/JellyBOX-Octopi-pre-configured/)
 - [Calibrate the 1st Layer Height](/Calibrate-the-1st-Layer-Height/)
 - [Slice with Cura IE 4.n](/Cura-Quick-Start-Guide/)
 
